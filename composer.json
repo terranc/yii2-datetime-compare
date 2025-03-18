@@ -20,8 +20,5 @@
         "psr-4": {
             "Empathy\\Validators\\": ""
         }
-    },
-    "require": {
-
     }
 }
